@@ -1,6 +1,6 @@
 # Hello, I am Don Esrom
 
-[<img src="https://img.shields.io/badge/Website-Content-brightgreen.svg?logo=LOGO">](<http://www.donesrom.hashnode.dev>)
+[<img src="https://img.shields.io/badge/Website-Content-brightgreen.svg?logo=LOGO">](<https://www.donesrom.hashnode.dev>)
 ![Website](http://www.donesrom.hashnode.dev) • ![Twitter](https://twitter.com/Donesrom) • [Contact Us](mailto:donesrom@gmail.com)
 
 I am a technical writer and web developer with more than 8 years of professional writing experience. 
