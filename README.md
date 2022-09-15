@@ -1,5 +1,6 @@
 # Hello, I am Don Esrom
-![Hashnode]((http://www.donesrom.hashnode.dev) [Website](http://www.donesrom.hashnode.dev) • [Twitter](https://twitter.com/Donesrom) • [Contact Us](mailto:donesrom@gmail.com)
+
+![Website](http://www.donesrom.hashnode.dev) • [Twitter](https://twitter.com/Donesrom) • [Contact Us](mailto:donesrom@gmail.com)
 
 I am a technical writer and web developer with more than 8 years of professional writing experience. 
 
