@@ -4,20 +4,48 @@
  [<img src="https://img.shields.io/badge/Twitter-blue.svg?logo=LOGO">](<https://twitter.com/Donesrom>) [<img src="https://img.shields.io/badge/Email-blue.svg?logo=LOGO">](<mailto:donesrom@gmail.com>)
 
 
-I am a technical writer and web developer with more than 8 years of professional writing experience. 
+A technical writer and web developer with more than 8 years of professional writing experience. 
 
-## Tech Stack
+I like building stuff and getting my hands dirty. 
+
+When I am not in my little office writing content or figuring out why my code works, I am probably building or dismantling something. 
+
+## Technical writing repos
+
+- [ShareX Documentation](https://github.com/Donesrom/shareX-sample-docs)
+
+## Technical writing samples
+- [Blog](https://donesrom.hashnode.dev/)
+- [Sweetcode articles](https://sweetcode.io/author/desrom/)
+
+## Tech stack
 - Markdown
 - Asciidoc
 - Asciidoctor
+- Antora
 - Git
 - Github
 - Linux
 - Windows
 
-## Programming Languages & Technologies 
+## Web Dev work repos:
+
+- [Gym Forthall](https://github.com/Donesrom/Gymforthall)
+- [Fruit Vendor](https://github.com/Donesrom/fruit-vendor)
+
+## Tech Stack
 - Python
 - Django
+- Git
+- Github
+- Linux
+- Windows
+
+## Learning Repos
+- [ALX System Engineering Devops](https://github.com/Donesrom/alx-system_engineering-devops)
+- [ALX Higher Level programming](https://github.com/Donesrom/alx-higher_level_programming)
+- [ALX Low Level Programming](https://github.com/Donesrom/alx-low_level_programming)
+
 
 <!---
 Donesrom/Donesrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
