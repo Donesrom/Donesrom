@@ -10,13 +10,13 @@ I like building stuff and getting my hands dirty.
 
 When I am not in my little office writing content or figuring out why my code works, I am probably building or dismantling something. 
 
+## Technical writing article samples
+- [Blog](https://donesrom.hashnode.dev/)
+- [Sweetcode articles](https://sweetcode.io/author/desrom/)
+
 ## Technical writing repos
 
 - [ShareX Documentation](https://github.com/Donesrom/shareX-sample-docs)
-
-## Technical writing samples
-- [Blog](https://donesrom.hashnode.dev/)
-- [Sweetcode articles](https://sweetcode.io/author/desrom/)
 
 ## Tech stack
 - Markdown
