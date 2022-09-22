@@ -8,7 +8,7 @@ A technical writer and web developer with more than 8 years of professional writ
 
 I like building stuff and getting my hands dirty. 
 
-When I am not in my little office writing content or figuring out why my code works, I am probably building or dismantling something. 
+When I am not in my little office writing content or figuring out why my code is working, I am probably building or dismantling something. 
 
 ## Technical writing article samples
 - [Blog](https://donesrom.hashnode.dev/)
