@@ -11,8 +11,8 @@ I like building stuff and getting my hands dirty.
 When I am not in my little office writing content or figuring out why my code is working, I am probably building or dismantling something. 
 
 ## Technical writing article samples
-- [Blog](https://donesrom.hashnode.dev/)
-- [Sweetcode articles](https://sweetcode.io/author/desrom/)
+- [Blog1](https://donesrom.hashnode.dev/) and [Blog2](https://dev.to/donesrom)
+
 
 ## Technical writing repos
 
@@ -40,6 +40,8 @@ When I am not in my little office writing content or figuring out why my code is
 - Github
 - Linux
 - Windows
+- HTML
+- CSS
 
 ## Learning Repos
 - [ALX System Engineering Devops](https://github.com/Donesrom/alx-system_engineering-devops)
